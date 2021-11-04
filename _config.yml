@@ -1,12 +1,12 @@
 # Site
-name: 'Adivasi'
-description: 'Adivasi is just another digital travel & Life Journal. Please read at you own risk!'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/FuryFaithBlogs/'
+baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'aravind.000.as@gmail.com'
-
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-   sal:
+    sal:
       name:           Sal
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
@@ -34,15 +34,6 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
-
-    Aravind:
-      name:         Aravind
-      avatar:         /assets/images/Snow-me.jpg
-      bio:            "Hi, I am Aravind, the author of Adivasi, the blog you're currently stalking. I hope you like it!"
-      email:          aravind.000.as@gmail.com
-     
-
-    
  
 # Defaults
 defaults:
