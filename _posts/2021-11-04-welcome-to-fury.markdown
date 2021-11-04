@@ -12,6 +12,6 @@ Hope that my writings and thoughts be pleasing if not funny to the wandering min
 
 
 
-<h4>Yours’s Sincerely,/h4>
+<h4>Yours’s Sincerely</h4>
 
 Adi
