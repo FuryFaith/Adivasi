@@ -4,7 +4,7 @@ title:  "Can you figure me out"
 author: Aravind
 categories: [ Mind ]
 image: assets/images/Blackmind
-tags: [summer]
+
 ---
 <h2>What am i?</h2>
 Am i just a construct, a thing of your subconciousness or a vauge thought that arose spontenously?
