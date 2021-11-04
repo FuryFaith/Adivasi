@@ -34,7 +34,7 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
-      
+
     Aravind:
       name:         Aravind
       avatar:         /assets/images/Snow-me.jpg
@@ -52,8 +52,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Aravind
-      avatar: /assets/images/Snow-me.jpg
+      author: sal
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
