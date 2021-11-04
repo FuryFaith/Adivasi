@@ -3,7 +3,7 @@ layout: post
 title:  "Can you figure me out"
 author: Aravind
 categories: [ Mind ]
-image: assets/images/Blackmind
+image: assets/images/Blackmind.jpg
 
 ---
 <h2>What am i?</h2>
