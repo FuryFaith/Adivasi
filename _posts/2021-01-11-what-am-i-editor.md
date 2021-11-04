@@ -4,9 +4,16 @@ title:  "Can you figure me out"
 author: Aravind
 categories: [ Mind ]
 image: assets/images/Blackmind.jpeg
+tags: [featured]
 
 ---
 <h2>What am I?</h2>
-Am i just a construct, a thing of your subconciousness or a vauge thought that arose spontenously?
-Things we tend to think about ourselves arise when we feel insecure, that's unavoidable!.
-But is it bad to have this darkmind set even when your feel like you are supposed to be a gentleman of our time.Can't i just have an imagination where things go my way, just a seculded world apart from reality.Can it be that my two face is just another me waiting to shift place? Will i break my mirror to avoid this me or will i embrace the dark? To be continued.....
+
+Am I just a construct, a thing of your subconsciousness or a vague thought that arose spontaneously?
+Things we tend to think about ourselves arise when we feel insecure, that's unavoidable!
+But is it bad to have this dark mind set even when your feel like you are supposed to be a gentleman of our time? Can’t I just have an imagination where things go my way, just a secluded world apart from reality. Can it be that my two face is just another me waiting to shift place? Will I break my mirror to avoid this me or will i embrace the dark?
+
+>I plan to figure out what this darkness brings in me, things i usually won't even bother to do or think about. Brings out spontaneous and outright thoughts, but why bother to change what I haven't done in decades? Is this the rebel phase my comrades? A change in pace, my train of thoughts seem to be better than the old me.
+
+
+
