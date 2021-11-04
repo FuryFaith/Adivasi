@@ -1,10 +1,11 @@
 # Site
-name: 'Adivasi'
-description: 'Adivasi is a digital time & life journal.'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/FuryFaithBlogs/'
+baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -33,13 +34,6 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
-
-       aravind:
-      name:           Aravind
-      avatar:         /assets/images/Snow-me.jpg
-      bio:            "Hi, I am Sal, the author of Adivasi, the blog you're currently Stalking. I hope you like it!"
-      email:          fakemail@gmail.com
-     
  
 # Defaults
 defaults:
