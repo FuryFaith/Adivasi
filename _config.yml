@@ -20,9 +20,9 @@ plugins:
   
 authors:
     sal:
-      name:           Aravind
+      name:           sal
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/Snow-me.jpg
+      avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -34,6 +34,15 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    aravind:
+      name:           Aravind
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/Snow-me.jpg
+      bio:            "Hi, I am Adil, the author of Adivasi, the blog that you're currently stalking. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+
  
 # Defaults
 defaults:
@@ -44,7 +53,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/Snow-me.jpg
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:

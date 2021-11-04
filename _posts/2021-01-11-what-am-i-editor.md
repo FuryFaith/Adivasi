@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Can you figure me out"
-author: Aravind
+author: aravind
 categories: [ Mind ]
 image: assets/images/Blackmind.jpeg
 tags: [featured]
