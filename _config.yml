@@ -34,6 +34,13 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+       aravind:
+      name:           Aravind
+      avatar:         /assets/images/Snow-me.jpg
+      bio:            "Hi, I am Sal, the author of Adivasi, the blog you're currently Stalking. I hope you like it!"
+      email:          fakemail@gmail.com
+     
  
 # Defaults
 defaults:
