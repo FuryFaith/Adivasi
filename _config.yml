@@ -22,7 +22,7 @@ authors:
 
     sal:
       name:         Aravind
-      avatar:         /assets/images/Another me.jpeg
+      avatar:         /assets/images/Snow-me.jpeg
       bio:            "Hi, I am Aravind, the author of Adivasi, the blog you're currently stalking. I hope you like it!"
       email:          aravind.000.as@gmail.com
      
@@ -38,7 +38,7 @@ defaults:
     values:
       layout: post
       author: Aravind
-      avatar: /assets/images/Another me.jpeg
+      avatar: /assets/images/Snow-me.jpeg
       
   # all pages
   - scope:
