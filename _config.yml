@@ -1,6 +1,6 @@
 # Site
-name: 'Fury'
-description: 'It's a Travel blog by Aravind Seshadri, with thoughts and photographic memories.'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/FuryFaithBlogs/'
@@ -20,12 +20,12 @@ plugins:
   
 authors:
     jane:
-      name:           Aravind
+      name:           Jane
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar2.jpg
-      bio:            ""
-      email:          aravind.000.as@gmail.com
-     
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Aravind
+      author: sal
       avatar: /assets/images/avatar1.jpg
       
   # all pages
