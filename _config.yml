@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Aravind
       site:           https://www.wowthemes.net
       avatar:         /assets/images/Snow-me.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/Snow-me.jpg
       
   # all pages
   - scope:
