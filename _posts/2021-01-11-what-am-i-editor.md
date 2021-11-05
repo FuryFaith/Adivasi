@@ -7,8 +7,7 @@ image: assets/images/Blackmind.jpeg
 tags: [featured]
 
 ---
-<h2>What am I?</h2>
-
+## What am I?
 Am I just a construct, a thing of your subconsciousness or a vague thought that arose spontaneously?
 Things we tend to think about ourselves arise when we feel insecure, that's unavoidable!
 But is it bad to have this dark mind set even when you feel like you are supposed to be a gentleman of our time? Can’t I just have an imagination where things go my way, just a secluded world apart from reality. Can it be that my two face is just another me waiting to shift place? Will I break my mirror to avoid this me or will i embrace the dark?
