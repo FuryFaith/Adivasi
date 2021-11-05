@@ -3,7 +3,7 @@ layout: post
 title:  "Osseous Matter"
 categories: [`Mind` ]
 image: assets/images/Bones.jpg
-
+tags: [featured]
 ---
 ## Man of Steel
 We think we are made of steel, yet this is my proof that even steel can break. Usually we tend to walk on depression if something bad happens in our life. Imagine now being healthy and suddenly in need of a support to do your basic routine, sounds depressing? Well thats the loop i am stuck for the next few months. I have had this happen once before,But thinking about that now feels obselete. People tend to judge things before and after as always. This crack in my armour feels bad but they seem to care less about that and more on how it happened, even then am i to blame?.
