@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Osseous Matter"
-categories: [`Mind` ]
+author: adi
+categories: [Mind]
 image: assets/images/Bones.jpg
 tags: [featured]
 ---
