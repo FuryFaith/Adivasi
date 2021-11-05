@@ -5,6 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/FuryFaithBlogs/'
 disqus: 'demowebsite'
+google_analytics: G-1VMGF3LTRX
 
 include: ["_pages"]
 permalink: /:title/
