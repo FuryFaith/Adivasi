@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog"
-categories: [ Welcome Blog]
+categories: [ Mind, Welcome Blog]
 image: assets/images/Snow-me.jpg
 ---
 This Blog is about my travel journey & life pictured.
