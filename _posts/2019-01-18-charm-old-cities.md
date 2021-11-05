@@ -3,6 +3,7 @@ layout: post
 title:  "Could we reinvent the charm of old cities"
 categories: [ Test ]
 image: assets/images/home.jpg
+tags: [sticky]
 
 ---
 
