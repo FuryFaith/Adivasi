@@ -3,7 +3,7 @@ layout: post
 title:  "Exhaustion"
 author: adi
 categories: [Mind]
-image: assets/images/Samurai.jpg
+image: assets/images/Samurai.jpeg
 tags: [featured]
 ---
 
