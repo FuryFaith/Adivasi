@@ -17,7 +17,7 @@ I find this interesting as I had tried this and it helped me to sort out some of
 So my two cents from the Japanese`(basically their Yen)` and Virat Kohli `(Yup him too)`,
 also, it okay not to follow regularly but just try it at least once.
 
-**`Bushido`**
+**Bushido**
 The samurai of ancient Japan followed a sequence of rules called the `Bushido` or “The Way of the Warrior”. These philosophical codes and guiding principles were specifically for the samurai warriors.
 
 <h5>Gi – Justice or Integrity</h5>
