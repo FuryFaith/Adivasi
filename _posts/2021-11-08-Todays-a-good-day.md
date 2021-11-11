@@ -6,7 +6,7 @@ categories: [Day]
 image: assets/images/Snail.jpg
 ---
 
-**Hello World!**
+## Hello World!
 Today, `Eight November`, Twenty-Third day since my fix. 
 I have been finding it difficult to do anything without depending on my family, especially my `mom` and my `brother`. Things that anybody would find silly is what I would need help in the most and they supported me no matter what.
 
