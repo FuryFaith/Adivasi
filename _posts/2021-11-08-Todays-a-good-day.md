@@ -4,6 +4,7 @@ title:  "Today's a good day"
 author: adi
 categories: [Day]
 image: assets/images/Snail.jpg
+tags: [sticky]
 ---
 
 ## `Hello World!`
