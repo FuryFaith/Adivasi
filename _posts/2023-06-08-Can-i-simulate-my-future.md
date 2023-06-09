@@ -3,7 +3,7 @@ layout: post
 title: "Can i simulate my future ?"
 author: adi
 categories: [Future]
-image: assets/images/Solider.jpg
+image: assets/images/Solider.jpeg
 tags: [featured][sticky]
 ---
 
