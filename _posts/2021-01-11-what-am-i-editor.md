@@ -4,7 +4,6 @@ title: "Can you figure me out?"
 author: adi
 categories: [Mind]
 image: assets/images/Blackmind.jpeg
-tags: [featured]
 ---
 
 ## What am I?

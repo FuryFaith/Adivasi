@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Exhaustion"
+title: "Exhaustion"
 author: adi
 categories: [Mind]
 image: assets/images/Samurai.jpeg
-tags: [featured]
+tags: [Sticky]
 ---
 
 It's been six days, I feel the monotonous robot in me is just living to eat, sleep, work & repeat. There is no faint silver lining, on the other side of work or life. Slugging since my graduation. It isn't new to anyone cause to level up your knowledge, the learning process takes time and energy.
 
 My schedule hasn't been ever great to be honest, but I find that following a routine helps me out to declutter this madness going on always. Wise man aka my dad always had this concept
->No matter what chaos takes over your life, this discipline might give a sense control. But works only if you dedicated towards the routine."
+
+> No matter what chaos takes over your life, this discipline might give a sense control. But works only if you dedicated towards the routine."
 
 I find this interesting as I had tried this and it helped me to sort out some of my clashes with time and studies in my early part of college.
 
@@ -18,6 +19,7 @@ So my two cents from the Japanese`(basically their Yen)` and Virat Kohli `(Yup h
 also, it okay not to follow regularly but just try it at least once.
 
 ### Bushido
+
 The samurai of ancient Japan followed a sequence of rules called the `Bushido` or “The Way of the Warrior”. These philosophical codes and guiding principles were specifically for the samurai warriors.
 
 <h5>Gi – Justice or Integrity</h5>
@@ -45,5 +47,3 @@ Living and dying with great honor was vital to every samurai warrior. Everything
 Another vital aspect of the Bushido was loyalty. The samurai treated each other just like family and would safeguard and help their fellow warriors.
 
 This was important because it meant they could trust each other, knowing that they would be loyal despite the circumstances.
-
-
